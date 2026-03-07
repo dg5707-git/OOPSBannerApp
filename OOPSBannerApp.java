@@ -5,7 +5,7 @@
  *
  */
  
-public class OOPSBannerApp_3 {
+public class OOPSBannerApp {
     public static void main(String[] args) {
         String line1 = String.join(""," **** ", "  **** ", "  ****  ", "  **** ");
         String line2 = String.join("","*    *", " *    *", " *   * ", " *     ");
